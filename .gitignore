@@ -1,0 +1,14 @@
+# Django files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
